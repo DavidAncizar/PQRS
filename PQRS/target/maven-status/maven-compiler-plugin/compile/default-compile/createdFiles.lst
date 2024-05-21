@@ -1,0 +1,14 @@
+com\mycompany\pqrs\JAXRSConfiguration.class
+com\mycompany\pqrs\resources\JavaEE8Resource.class
+com\mycompany\pqrs\Correos.class
+servlets\SvMostrarPqrsUser.class
+servlets\SvEliminar.class
+com\mycompany\pqrs\controlUsuario.class
+servlets\SvEnviarPqrs.class
+servlets\SvRegistrar.class
+servlets\SvResponder.class
+servlets\SvIngresar.class
+com\mycompany\pqrs\Correos$1.class
+servlets\SvEditar.class
+com\mycompany\pqrs\tablaPQRS.class
+com\mycompany\pqrs\usuario.class

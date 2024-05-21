@@ -1,0 +1,22 @@
+/*
+Click nbfs://nbhost/SystemFileSystem/Templates/Licenses/license-default.txt to change this license
+Click nbfs://nbhost/SystemFileSystem/Templates/ClientSide/css.css to edit this template
+*/
+/* 
+    Created on : 7/05/2024, 9:26:01 p. m.
+    Author     : ANCIZAR
+*/
+
+body {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    margin-left: 250px;
+}
+
+form {
+    width: 800px;
+    height: 700px;
+    padding: 20px;
+} 
